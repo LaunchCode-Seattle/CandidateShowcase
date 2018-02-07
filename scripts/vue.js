@@ -3,7 +3,6 @@ function loadData(callback) {
 	request.overrideMimeType("application/json");
 	request.open("GET", "data.json", true);
 	request.onreadystatechange = function() {
-		console.log("readyState == " & request.readyState);
 		if (request.readyState == 4 && request.status == 200) {
 			callback(request.responseText);
 		}
@@ -12,10 +11,12 @@ function loadData(callback) {
 }
 
 function vueOnLoad(raw) {
-	console.log(raw)
+	var data = function() {
+		return JSON.parse(raw);
+	}
 	new Vue({
 		el: '#app',
-		data: JSON.parse(raw)
+		data: data
 	});
 }
 

@@ -1,0 +1,11 @@
+[{
+    "message": "Welcome to the Candidate Showcase!",
+    "projects": [
+        { "title": "Project 1"
+        },
+        { "title": "Project 2"
+        },
+        { "title": "Project 3"
+        }
+    ]
+}]

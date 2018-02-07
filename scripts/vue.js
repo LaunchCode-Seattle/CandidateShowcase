@@ -23,6 +23,7 @@ function loadData(callback) {
 			}
 		}
 	}
+	console.error("Could not load data. Falling back to default data.");
 	callback(defaultData());
 }
 

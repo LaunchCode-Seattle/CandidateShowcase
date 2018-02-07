@@ -19,10 +19,9 @@
 		<section class="section">
 			<div class="container">
 				<div id="app">
-					<div class="columns">
-						<div class="column" v-for="group in groups">
-							{{group.location}}, Group #{{group.number}}
-						</div>
+					<div class="box" v-for="group in groups">
+						<div class="">{{group.location}}</div> <div class="">Group #{{group.number}}</div><br>
+						<div class=""><a href="https://github.com/repo">{{group.repo}}</a></div>
 					</div>
 				</div>
 			</div>

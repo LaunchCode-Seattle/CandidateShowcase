@@ -1,21 +1,38 @@
 {
     "groups": [
-        { 
+        {
             "location": "Portland",
             "number": "1",
-            "repo": "",
+            "repoLocation": "jjames1011",
+            "repoName": "attendenceapp",
             "members": [
                 {
-                    "first": "",
-                    "last": "",
-                    "username": ""
+                    "first": "Dana",
+                    "last": "Pryor",
+                    "username": "dpryor67"
+                },
+                {
+                    "first": "Jonathan",
+                    "last": "James",
+                    "username": "jjames1011"
+                },
+                {
+                    "first": "Sue",
+                    "last": "Robbins",
+                    "username": "shrobbins"
+                },
+                {
+                    "first": "Thai",
+                    "last": "Nguyen",
+                    "username": "thaindq"
                 }
             ]
         },
-        { 
+        {
             "location": "Portland",
             "number": "2",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -24,10 +41,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Portland",
             "number": "4",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -36,10 +54,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Portland",
             "number": "5",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -48,10 +67,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Portland",
             "number": "6",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -60,10 +80,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Portland",
             "number": "7",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -72,10 +93,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Portland",
             "number": "8",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -84,10 +106,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Portland",
             "number": "9",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -96,10 +119,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Seattle",
             "number": "1",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -108,10 +132,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Seattle",
             "number": "2",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -120,10 +145,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Seattle",
             "number": "3",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -132,10 +158,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Seattle",
             "number": "4",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -144,10 +171,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Seattle",
             "number": "5",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -156,10 +184,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Seattle",
             "number": "6",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -168,10 +197,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Seattle",
             "number": "7",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",
@@ -180,10 +210,11 @@
                 }
             ]
         },
-        { 
+        {
             "location": "Seattle",
             "number": "8",
-            "repo": "",
+            "repoLocation": "",
+            "repoName": "",
             "members": [
                 {
                     "first": "",

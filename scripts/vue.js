@@ -1,7 +1,7 @@
 function loadData(callback) {
 	var request = new XMLHttpRequest();
 	request.overrideMimeType("application/json");
-	request.open("open", "https://launchcode-seattle.github.io/data.json", true);
+	request.open("open", "launchcode-seattle.github.io/data.json", true);
 	request.onreadystatechange = function() {
 		console.log("readyState == " & request.readyState);
 		if (request.readyState == 4 && request.status == 200) {

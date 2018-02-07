@@ -19,10 +19,9 @@
 		<section class="section">
 			<div class="container">
 				<div id="app">
-					{{message}}
 					<div class="columns">
-						<div class="column" v-for="project in projects">
-							{{project.title}}
+						<div class="column" v-for="group in groups">
+							{{group.location}}, Group #{{group.number}}
 						</div>
 					</div>
 				</div>

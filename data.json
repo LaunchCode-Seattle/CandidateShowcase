@@ -1,11 +1,196 @@
 {
-    "message": "Welcome to the Candidate Showcase!",
-    "projects": [
-        { "title": "Project 1"
+    "groups": [
+        { 
+            "location": "Portland",
+            "number": "1",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
         },
-        { "title": "Project 2"
+        { 
+            "location": "Portland",
+            "number": "2",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
         },
-        { "title": "Project 3"
+        { 
+            "location": "Portland",
+            "number": "4",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Portland",
+            "number": "5",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Portland",
+            "number": "6",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Portland",
+            "number": "7",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Portland",
+            "number": "8",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Portland",
+            "number": "9",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Seattle",
+            "number": "1",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Seattle",
+            "number": "2",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Seattle",
+            "number": "3",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Seattle",
+            "number": "4",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Seattle",
+            "number": "5",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Seattle",
+            "number": "6",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Seattle",
+            "number": "7",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
+        },
+        { 
+            "location": "Seattle",
+            "number": "8",
+            "repo": "",
+            "members": [
+                {
+                    "first": "",
+                    "last": "",
+                    "username": ""
+                }
+            ]
         }
     ]
 }

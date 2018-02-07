@@ -19,7 +19,7 @@ function loadData(callback) {
 	request.onreadystatechange = function() {
 		if (request.readyState == 4) {
 			if (request.status == 200) {
-				callback(reqvouest.responseText);
+				callback(request.responseText);
 			}
 		}
 	}

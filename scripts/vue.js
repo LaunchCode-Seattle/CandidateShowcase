@@ -11,7 +11,7 @@ function loadData(callback) {
 }
 
 function vueOnLoad(raw) {
-	var data = function() {
+	data = function() {
 		return JSON.parse(raw);
 	}
 	new Vue({

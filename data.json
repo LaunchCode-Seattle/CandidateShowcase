@@ -32,13 +32,23 @@
         {
             "location": "Portland",
             "number": "2",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
+            "repoLocation": "digitaljosh",
+            "repoName": "meal-planner",
+            "projectName": "Meal Planner",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Jason",
+                    "lastName": "Jones",
+                    "username": "digitaljosh"
+                },
+                {
+                    "firstName": "Josh",
+                    "lastName": "Markus",
+                    "username": ""
+                },
+                {
+                    "firstName": "Richard",
+                    "lastName": "Krane",
                     "username": ""
                 }
             ]
@@ -46,13 +56,28 @@
         {
             "location": "Portland",
             "number": "4",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
+            "repoLocation": "PushP0P",
+            "repoName": "iEatWhat-Backend",
+            "projectName": "iEatWhat",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Daniel",
+                    "lastName": "Hodgson",
+                    "username": "PushP0P"
+                },
+                {
+                    "firstName": "Patrick",
+                    "lastName": "Lippert",
+                    "username": ""
+                },
+                {
+                    "firstName": "Robert",
+                    "lastName": "Beatie",
+                    "username": ""
+                },
+                {
+                    "firstName": "Stephanie",
+                    "lastName": "Spears",
                     "username": ""
                 }
             ]
@@ -60,13 +85,23 @@
         {
             "location": "Portland",
             "number": "5",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
+            "repoLocation": "devinludwig",
+            "repoName": "five-points",
+            "projectName": "Five Points Web App",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Cody",
+                    "lastName": "Long",
+                    "username": ""
+                },
+                {
+                    "firstName": "Devin",
+                    "lastName": "Ludwig",
+                    "username": "devinludwig"
+                },
+                {
+                    "firstName": "Sunmi",
+                    "lastName": "Bausman",
                     "username": ""
                 }
             ]
@@ -74,27 +109,47 @@
         {
             "location": "Portland",
             "number": "6",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
+            "repoLocation": "toscanowilliam",
+            "repoName": "Off-Your-Shoulder",
+            "projectName": "Off Your Shoulder",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Michael",
+                    "lastName": "Chan",
                     "username": ""
+                },
+                {
+                    "firstName": "Robert",
+                    "lastName": "DeFord",
+                    "username": ""
+                },
+                {
+                    "firstName": "William",
+                    "lastName": "Toscano",
+                    "username": "toscanowilliam"
                 }
             ]
         },
         {
             "location": "Portland",
             "number": "7",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
+            "repoLocation": "juliancello",
+            "repoName": "vehicle-check",
+            "projectName": "Vehicle Check",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Adam",
+                    "lastName": "Duhamel",
+                    "username": ""
+                },
+                {
+                    "firstName": "Holly",
+                    "lastName": "Eaton",
+                    "username": ""
+                },
+                {
+                    "firstName": "Timothy",
+                    "lastName": "Adams",
                     "username": ""
                 }
             ]
@@ -102,13 +157,23 @@
         {
             "location": "Portland",
             "number": "8",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
+            "repoLocation": "iaholyk",
+            "repoName": "Groomate",
+            "projectName": "Groomate",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Adriana",
+                    "lastName": "Chen",
+                    "username": ""
+                },
+                {
+                    "firstName": "Isaac",
+                    "lastName": "Holyk",
+                    "username": "iaholyk"
+                },
+                {
+                    "firstName": "Mark",
+                    "lastName": "Rae",
                     "username": ""
                 }
             ]
@@ -116,13 +181,23 @@
         {
             "location": "Portland",
             "number": "9",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
+            "repoLocation": "EstiShay",
+            "repoName": "podcast-social-network",
+            "projectName": "Podcast Social Network",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Esti",
+                    "lastName": "Shay",
+                    "username": "EstiShay"
+                },
+                {
+                    "firstName": "Jeff",
+                    "lastName": "Bailey",
+                    "username": ""
+                },
+                {
+                    "firstName": "Schola",
+                    "lastName": "Choi",
                     "username": ""
                 }
             ]
@@ -135,7 +210,22 @@
             "projectName": "",
             "members": [
                 {
-                    "firstName": "",
+                    "firstName": "Jak Ashuraliev",
+                    "lastName": "",
+                    "username": ""
+                },
+                {
+                    "firstName": "Kristy Stienstra",
+                    "lastName": "",
+                    "username": ""
+                },
+                {
+                    "firstName": "Laura Yang",
+                    "lastName": "",
+                    "username": ""
+                },
+                {
+                    "firstName": "Mikhail Gorbunov",
                     "lastName": "",
                     "username": ""
                 }
@@ -149,8 +239,23 @@
             "projectName": "",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Michael",
+                    "lastName": "Park",
+                    "username": ""
+                },
+                {
+                    "firstName": "Muatasim",
+                    "lastName": "Qazi",
+                    "username": ""
+                },
+                {
+                    "firstName": "Sarah",
+                    "lastName": "Fecadu",
+                    "username": ""
+                },
+                {
+                    "firstName": "Sergey",
+                    "lastName": "Polishchuk",
                     "username": ""
                 }
             ]
@@ -163,8 +268,23 @@
             "projectName": "",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Austin",
+                    "lastName": "LeSure",
+                    "username": ""
+                },
+                {
+                    "firstName": "Lynette",
+                    "lastName": "Haukap",
+                    "username": ""
+                },
+                {
+                    "firstName": "Marianne",
+                    "lastName": "Goldin",
+                    "username": ""
+                },
+                {
+                    "firstName": "Sigala",
+                    "lastName": "Hernandez",
                     "username": ""
                 }
             ]
@@ -177,8 +297,18 @@
             "projectName": "",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Andreaw",
+                    "lastName": "Suppini",
+                    "username": ""
+                },
+                {
+                    "firstName": "Charles",
+                    "lastName": "Saeyang",
+                    "username": ""
+                },
+                {
+                    "firstName": "Di",
+                    "lastName": "Ai",
                     "username": ""
                 }
             ]
@@ -191,8 +321,18 @@
             "projectName": "",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Ian",
+                    "lastName": "Peterson",
+                    "username": ""
+                },
+                {
+                    "firstName": "Sarah",
+                    "lastName": "Kane",
+                    "username": ""
+                },
+                {
+                    "firstName": "Tammy",
+                    "lastName": "Chang",
                     "username": ""
                 }
             ]
@@ -205,8 +345,23 @@
             "projectName": "",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Ivy",
+                    "lastName": "Patton",
+                    "username": ""
+                },
+                {
+                    "firstName": "Joe",
+                    "lastName": "Ylagen",
+                    "username": ""
+                },
+                {
+                    "firstName": "Kristen",
+                    "lastName": "Sharkey",
+                    "username": ""
+                },
+                {
+                    "firstName": "Logan",
+                    "lastName": "Feiler",
                     "username": ""
                 }
             ]
@@ -219,8 +374,18 @@
             "projectName": "",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Grace",
+                    "lastName": "Hwang",
+                    "username": ""
+                },
+                {
+                    "firstName": "Keith",
+                    "lastName": "Pearson",
+                    "username": ""
+                },
+                {
+                    "firstName": "Stacie",
+                    "lastName": "Mashnitskaya",
                     "username": ""
                 }
             ]
@@ -233,8 +398,23 @@
             "projectName": "",
             "members": [
                 {
-                    "firstName": "",
-                    "lastName": "",
+                    "firstName": "Jim",
+                    "lastName": "Tryon",
+                    "username": ""
+                },
+                {
+                    "firstName": "Jonathan",
+                    "lastName": "Root",
+                    "username": ""
+                },
+                {
+                    "firstName": "Stephan",
+                    "lastName": "Jones",
+                    "username": ""
+                },
+                {
+                    "firstName": "Wilson",
+                    "lastName": "Chan",
                     "username": ""
                 }
             ]

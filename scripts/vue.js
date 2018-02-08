@@ -9,9 +9,13 @@ function defaultData() {
 	json.groups[0].projectName = "Repo Name";
 	json.groups[0].members = [];
 	json.groups[0].members[0] = {};
-	json.groups[0].members[0].firstName = "";
-	json.groups[0].members[0].lastName = "";
-	json.groups[0].members[0].userName = "";
+	json.groups[0].members[0].firstName = "Bob";
+	json.groups[0].members[0].lastName = "Bobby";
+	json.groups[0].members[0].userName = "bb";
+	json.groups[0].members[1] = {};
+	json.groups[0].members[1].firstName = "Charles";
+	json.groups[0].members[1].lastName = "Charly";
+	json.groups[0].members[1].userName = "cc";
 	return JSON.stringify(json);
 }
 

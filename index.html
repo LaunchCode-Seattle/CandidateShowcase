@@ -20,6 +20,9 @@
 					</a>
 					{{group.location}}, Group #{{group.number}}
 				</h2>
+				<div class="tags">
+					<span class="tag" v-for="member in group.members">{{member.firstName}} {{member.lastName}}</span>
+				</div>
 			</div>
 		</section>
 	</body>

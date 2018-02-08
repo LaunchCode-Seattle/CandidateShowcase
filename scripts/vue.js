@@ -5,7 +5,8 @@ function defaultData() {
 	json.groups[0].location = "City";
 	json.groups[0].number = "5";
 	json.groups[0].repoLocation = "username";
-	json.groups[0].repoName = "Repo Name";
+	json.groups[0].repoName = "RepoName";
+	json.groups[0].projectName = "Repo Name";
 	json.groups[0].members = [];
 	json.groups[0].members[0] = {};
 	json.groups[0].members[0].firstName = "";
@@ -13,6 +14,7 @@ function defaultData() {
 	json.groups[0].members[0].userName = "";
 	return JSON.stringify(json);
 }
+
 function loadData(callback) {
 	if (location.hostname === "")
 	{
@@ -40,9 +42,14 @@ function vueOnLoad(raw) {
 	new Vue({
 		el: '#app',
 		data: data,
+		created: function() {
+			this.expandData();
+		},
 		methods: {
-			repoUrl: function() {
-				return "http://github.com/" + this.repoLocation + "/" + this.repoName;
+			expandData() {
+				this.groups.forEach((group) => {
+					group.repoUrl = "http://github.com/" + group.repoLocation + "/" + group.repoName;
+				});
 			}
 		}
 	});

@@ -15,8 +15,8 @@
 			</div>
 			<div class="container" v-for="group in groups">
 				<h2 class="title is-2">
-					<a v-bind:href="repoUrl()">
-						{{group.repoName}},
+					<a v-bind:href="group.repoUrl">
+						{{group.projectName}},
 					</a>
 					{{group.location}}, Group #{{group.number}}
 				</h2>

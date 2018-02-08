@@ -9,21 +9,17 @@
 		<script src="scripts/vue.js"></script>
 	</head>
 	<body>
-		<section class="section hero is-primary">
-			<div class="hero-body">
-				<div class="container">
-					<h1 class="title">Candidate Showcase</h1>
-				</div>
-			</div>
-		</section>
-		<section class="section">
+		<section id="app" class="section">
 			<div class="container">
-				<div id="app">
-					<div class="box" v-for="group in groups">
-						<div class="">{{group.location}}</div> <div class="">Group #{{group.number}}</div><br>
-						<div class=""><a href="https://github.com/repo">{{group.repoLocation}}/{{group.repoName}}</a></div>
-					</div>
-				</div>
+				<h1 class="title is-1">Candidate Showcase</h1>
+			</div>
+			<div class="container" v-for="group in groups">
+				<h2 class="title is-2">
+					<a v-bind:href="repoUrl()">
+						{{group.repoName}},
+					</a>
+					{{group.location}}, Group #{{group.number}}
+				</h2>
 			</div>
 		</section>
 	</body>

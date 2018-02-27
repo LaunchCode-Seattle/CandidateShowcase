@@ -79,7 +79,12 @@
                     "firstName": "Stephanie",
                     "lastName": "Spears",
                     "username": ""
-                }
+                },
+                {
+                    "firstName": "Isaac",
+                    "lastName": "Holyk",
+                    "username": "iaholyk"
+                },
             ]
         },
         {
@@ -114,19 +119,14 @@
             "projectName": "Off Your Shoulder",
             "members": [
                 {
-                    "firstName": "Michael",
-                    "lastName": "Chan",
-                    "username": ""
-                },
-                {
-                    "firstName": "Robert",
-                    "lastName": "DeFord",
-                    "username": ""
-                },
-                {
                     "firstName": "William",
                     "lastName": "Toscano",
                     "username": "toscanowilliam"
+                },
+                {
+                    "firstName": "Adriana",
+                    "lastName": "Chen",
+                    "username": ""
                 }
             ]
         },
@@ -151,25 +151,6 @@
                     "firstName": "Timothy",
                     "lastName": "Adams",
                     "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Portland",
-            "number": "8",
-            "repoLocation": "iaholyk",
-            "repoName": "Groomate",
-            "projectName": "Groomate",
-            "members": [
-                {
-                    "firstName": "Adriana",
-                    "lastName": "Chen",
-                    "username": ""
-                },
-                {
-                    "firstName": "Isaac",
-                    "lastName": "Holyk",
-                    "username": "iaholyk"
                 },
                 {
                     "firstName": "Mark",
@@ -193,11 +174,6 @@
                 {
                     "firstName": "Jeff",
                     "lastName": "Bailey",
-                    "username": ""
-                },
-                {
-                    "firstName": "Schola",
-                    "lastName": "Choi",
                     "username": ""
                 }
             ]
@@ -286,6 +262,11 @@
                     "firstName": "Sigala",
                     "lastName": "Hernandez",
                     "username": ""
+                },
+                {
+                    "firstName": "Ian",
+                    "lastName": "Peterson",
+                    "username": ""
                 }
             ]
         },
@@ -302,11 +283,6 @@
                     "username": ""
                 },
                 {
-                    "firstName": "Charles",
-                    "lastName": "Saeyang",
-                    "username": ""
-                },
-                {
                     "firstName": "Di",
                     "lastName": "Ai",
                     "username": ""
@@ -320,19 +296,10 @@
             "repoName": "",
             "projectName": "",
             "members": [
-                {
-                    "firstName": "Ian",
-                    "lastName": "Peterson",
-                    "username": ""
-                },
+                
                 {
                     "firstName": "Sarah",
                     "lastName": "Kane",
-                    "username": ""
-                },
-                {
-                    "firstName": "Tammy",
-                    "lastName": "Chang",
                     "username": ""
                 }
             ]
@@ -397,11 +364,6 @@
             "repoName": "",
             "projectName": "",
             "members": [
-                {
-                    "firstName": "Jim",
-                    "lastName": "Tryon",
-                    "username": ""
-                },
                 {
                     "firstName": "Jonathan",
                     "lastName": "Root",

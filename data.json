@@ -1,385 +1,370 @@
 {
-    "groups": [
-        {
-            "location": "Portland",
-            "number": "1",
-            "repoLocation": "jjames1011",
-            "repoName": "attendenceapp",
-            "projectName": "Attendence App",
-            "members": [
-                {
-                    "firstName": "Dana",
-                    "lastName": "Pryor",
-                    "username": "dpryor67"
-                },
-                {
-                    "firstName": "Jonathan",
-                    "lastName": "James",
-                    "username": "jjames1011"
-                },
-                {
-                    "firstName": "Sue",
-                    "lastName": "Robbins",
-                    "username": "shrobbins"
-                },
-                {
-                    "firstName": "Thai",
-                    "lastName": "Nguyen",
-                    "username": "thaindq"
-                }
-            ]
-        },
-        {
-            "location": "Portland",
-            "number": "2",
-            "repoLocation": "digitaljosh",
-            "repoName": "meal-planner",
-            "projectName": "Meal Planner",
-            "members": [
-                {
-                    "firstName": "Jason",
-                    "lastName": "Jones",
-                    "username": "digitaljosh"
-                },
-                {
-                    "firstName": "Josh",
-                    "lastName": "Markus",
-                    "username": ""
-                },
-                {
-                    "firstName": "Richard",
-                    "lastName": "Krane",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Portland",
-            "number": "4",
-            "repoLocation": "PushP0P",
-            "repoName": "iEatWhat-Backend",
-            "projectName": "iEatWhat",
-            "members": [
-                {
-                    "firstName": "Daniel",
-                    "lastName": "Hodgson",
-                    "username": "PushP0P"
-                },
-                {
-                    "firstName": "Patrick",
-                    "lastName": "Lippert",
-                    "username": ""
-                },
-                {
-                    "firstName": "Robert",
-                    "lastName": "Beatie",
-                    "username": ""
-                },
-                {
-                    "firstName": "Stephanie",
-                    "lastName": "Spears",
-                    "username": ""
-                },
-                {
-                    "firstName": "Isaac",
-                    "lastName": "Holyk",
-                    "username": "iaholyk"
-                },
-            ]
-        },
-        {
-            "location": "Portland",
-            "number": "5",
-            "repoLocation": "devinludwig",
-            "repoName": "five-points",
-            "projectName": "Five Points Web App",
-            "members": [
-                {
-                    "firstName": "Cody",
-                    "lastName": "Long",
-                    "username": ""
-                },
-                {
-                    "firstName": "Devin",
-                    "lastName": "Ludwig",
-                    "username": "devinludwig"
-                },
-                {
-                    "firstName": "Sunmi",
-                    "lastName": "Bausman",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Portland",
-            "number": "6",
-            "repoLocation": "toscanowilliam",
-            "repoName": "Off-Your-Shoulder",
-            "projectName": "Off Your Shoulder",
-            "members": [
-                {
-                    "firstName": "William",
-                    "lastName": "Toscano",
-                    "username": "toscanowilliam"
-                },
-                {
-                    "firstName": "Adriana",
-                    "lastName": "Chen",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Portland",
-            "number": "7",
-            "repoLocation": "juliancello",
-            "repoName": "vehicle-check",
-            "projectName": "Vehicle Check",
-            "members": [
-                {
-                    "firstName": "Adam",
-                    "lastName": "Duhamel",
-                    "username": ""
-                },
-                {
-                    "firstName": "Holly",
-                    "lastName": "Eaton",
-                    "username": ""
-                },
-                {
-                    "firstName": "Timothy",
-                    "lastName": "Adams",
-                    "username": ""
-                },
-                {
-                    "firstName": "Mark",
-                    "lastName": "Rae",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Portland",
-            "number": "9",
-            "repoLocation": "EstiShay",
-            "repoName": "podcast-social-network",
-            "projectName": "Podcast Social Network",
-            "members": [
-                {
-                    "firstName": "Esti",
-                    "lastName": "Shay",
-                    "username": "EstiShay"
-                },
-                {
-                    "firstName": "Jeff",
-                    "lastName": "Bailey",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Seattle",
-            "number": "1",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
-            "members": [
-                {
-                    "firstName": "Jak Ashuraliev",
-                    "lastName": "",
-                    "username": ""
-                },
-                {
-                    "firstName": "Kristy Stienstra",
-                    "lastName": "",
-                    "username": ""
-                },
-                {
-                    "firstName": "Laura Yang",
-                    "lastName": "",
-                    "username": ""
-                },
-                {
-                    "firstName": "Mikhail Gorbunov",
-                    "lastName": "",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Seattle",
-            "number": "2",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
-            "members": [
-                {
-                    "firstName": "Michael",
-                    "lastName": "Park",
-                    "username": ""
-                },
-                {
-                    "firstName": "Muatasim",
-                    "lastName": "Qazi",
-                    "username": ""
-                },
-                {
-                    "firstName": "Sarah",
-                    "lastName": "Fecadu",
-                    "username": ""
-                },
-                {
-                    "firstName": "Sergey",
-                    "lastName": "Polishchuk",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Seattle",
-            "number": "3",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
-            "members": [
-                {
-                    "firstName": "Austin",
-                    "lastName": "LeSure",
-                    "username": ""
-                },
-                {
-                    "firstName": "Lynette",
-                    "lastName": "Haukap",
-                    "username": ""
-                },
-                {
-                    "firstName": "Marianne",
-                    "lastName": "Goldin",
-                    "username": ""
-                },
-                {
-                    "firstName": "Sigala",
-                    "lastName": "Hernandez",
-                    "username": ""
-                },
-                {
-                    "firstName": "Ian",
-                    "lastName": "Peterson",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Seattle",
-            "number": "4",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
-            "members": [
-                {
-                    "firstName": "Andreaw",
-                    "lastName": "Suppini",
-                    "username": ""
-                },
-                {
-                    "firstName": "Di",
-                    "lastName": "Ai",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Seattle",
-            "number": "5",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
-            "members": [
-                
-                {
-                    "firstName": "Sarah",
-                    "lastName": "Kane",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Seattle",
-            "number": "6",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
-            "members": [
-                {
-                    "firstName": "Ivy",
-                    "lastName": "Patton",
-                    "username": ""
-                },
-                {
-                    "firstName": "Joe",
-                    "lastName": "Ylagen",
-                    "username": ""
-                },
-                {
-                    "firstName": "Kristen",
-                    "lastName": "Sharkey",
-                    "username": ""
-                },
-                {
-                    "firstName": "Logan",
-                    "lastName": "Feiler",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Seattle",
-            "number": "7",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
-            "members": [
-                {
-                    "firstName": "Grace",
-                    "lastName": "Hwang",
-                    "username": ""
-                },
-                {
-                    "firstName": "Keith",
-                    "lastName": "Pearson",
-                    "username": ""
-                },
-                {
-                    "firstName": "Stacie",
-                    "lastName": "Mashnitskaya",
-                    "username": ""
-                }
-            ]
-        },
-        {
-            "location": "Seattle",
-            "number": "8",
-            "repoLocation": "",
-            "repoName": "",
-            "projectName": "",
-            "members": [
-                {
-                    "firstName": "Jonathan",
-                    "lastName": "Root",
-                    "username": ""
-                },
-                {
-                    "firstName": "Stephan",
-                    "lastName": "Jones",
-                    "username": ""
-                },
-                {
-                    "firstName": "Wilson",
-                    "lastName": "Chan",
-                    "username": ""
-                }
-            ]
-        }
-    ]
+	"groups": [{
+			"location": "Portland",
+			"number": "1",
+			"repoLocation": "jjames1011",
+			"repoName": "attendenceapp",
+			"projectName": "Attendence App",
+			"members": [{
+					"firstName": "Dana",
+					"lastName": "Pryor",
+					"username": "dpryor67"
+				},
+				{
+					"firstName": "Jonathan",
+					"lastName": "James",
+					"username": "jjames1011"
+				},
+				{
+					"firstName": "Sue",
+					"lastName": "Robbins",
+					"username": "shrobbins"
+				},
+				{
+					"firstName": "Thai",
+					"lastName": "Nguyen",
+					"username": "thaindq"
+				}
+			]
+		},
+		{
+			"location": "Portland",
+			"number": "2",
+			"repoLocation": "digitaljosh",
+			"repoName": "meal-planner",
+			"projectName": "Meal Planner",
+			"members": [{
+					"firstName": "Jason",
+					"lastName": "Jones",
+					"username": "digitaljosh"
+				},
+				{
+					"firstName": "Josh",
+					"lastName": "Markus",
+					"username": ""
+				},
+				{
+					"firstName": "Richard",
+					"lastName": "Krane",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Portland",
+			"number": "4",
+			"repoLocation": "PushP0P",
+			"repoName": "iEatWhat-Backend",
+			"projectName": "iEatWhat",
+			"members": [{
+					"firstName": "Daniel",
+					"lastName": "Hodgson",
+					"username": "PushP0P"
+				},
+				{
+					"firstName": "Patrick",
+					"lastName": "Lippert",
+					"username": ""
+				},
+				{
+					"firstName": "Robert",
+					"lastName": "Beatie",
+					"username": ""
+				},
+				{
+					"firstName": "Stephanie",
+					"lastName": "Spears",
+					"username": ""
+				},
+				{
+					"firstName": "Isaac",
+					"lastName": "Holyk",
+					"username": "iaholyk"
+				}
+			]
+		},
+		{
+			"location": "Portland",
+			"number": "5",
+			"repoLocation": "devinludwig",
+			"repoName": "five-points",
+			"projectName": "Five Points Web App",
+			"members": [{
+					"firstName": "Cody",
+					"lastName": "Long",
+					"username": ""
+				},
+				{
+					"firstName": "Devin",
+					"lastName": "Ludwig",
+					"username": "devinludwig"
+				},
+				{
+					"firstName": "Sunmi",
+					"lastName": "Bausman",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Portland",
+			"number": "6",
+			"repoLocation": "toscanowilliam",
+			"repoName": "Off-Your-Shoulder",
+			"projectName": "Off Your Shoulder",
+			"members": [{
+					"firstName": "William",
+					"lastName": "Toscano",
+					"username": "toscanowilliam"
+				},
+				{
+					"firstName": "Adriana",
+					"lastName": "Chen",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Portland",
+			"number": "7",
+			"repoLocation": "juliancello",
+			"repoName": "vehicle-check",
+			"projectName": "Vehicle Check",
+			"members": [{
+					"firstName": "Adam",
+					"lastName": "Duhamel",
+					"username": ""
+				},
+				{
+					"firstName": "Holly",
+					"lastName": "Eaton",
+					"username": ""
+				},
+				{
+					"firstName": "Timothy",
+					"lastName": "Adams",
+					"username": ""
+				},
+				{
+					"firstName": "Mark",
+					"lastName": "Rae",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Portland",
+			"number": "9",
+			"repoLocation": "EstiShay",
+			"repoName": "podcast-social-network",
+			"projectName": "Podcast Social Network",
+			"members": [{
+					"firstName": "Esti",
+					"lastName": "Shay",
+					"username": "EstiShay"
+				},
+				{
+					"firstName": "Jeff",
+					"lastName": "Bailey",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Seattle",
+			"number": "1",
+			"repoLocation": "",
+			"repoName": "",
+			"projectName": "",
+			"members": [{
+					"firstName": "Jak Ashuraliev",
+					"lastName": "",
+					"username": ""
+				},
+				{
+					"firstName": "Kristy Stienstra",
+					"lastName": "",
+					"username": ""
+				},
+				{
+					"firstName": "Laura Yang",
+					"lastName": "",
+					"username": ""
+				},
+				{
+					"firstName": "Mikhail Gorbunov",
+					"lastName": "",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Seattle",
+			"number": "2",
+			"repoLocation": "",
+			"repoName": "",
+			"projectName": "",
+			"members": [{
+					"firstName": "Michael",
+					"lastName": "Park",
+					"username": ""
+				},
+				{
+					"firstName": "Muatasim",
+					"lastName": "Qazi",
+					"username": ""
+				},
+				{
+					"firstName": "Sarah",
+					"lastName": "Fecadu",
+					"username": ""
+				},
+				{
+					"firstName": "Sergey",
+					"lastName": "Polishchuk",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Seattle",
+			"number": "3",
+			"repoLocation": "",
+			"repoName": "",
+			"projectName": "",
+			"members": [{
+					"firstName": "Austin",
+					"lastName": "LeSure",
+					"username": ""
+				},
+				{
+					"firstName": "Lynette",
+					"lastName": "Haukap",
+					"username": ""
+				},
+				{
+					"firstName": "Marianne",
+					"lastName": "Goldin",
+					"username": ""
+				},
+				{
+					"firstName": "Sigala",
+					"lastName": "Hernandez",
+					"username": ""
+				},
+				{
+					"firstName": "Ian",
+					"lastName": "Peterson",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Seattle",
+			"number": "4",
+			"repoLocation": "",
+			"repoName": "",
+			"projectName": "",
+			"members": [{
+					"firstName": "Andreaw",
+					"lastName": "Suppini",
+					"username": ""
+				},
+				{
+					"firstName": "Di",
+					"lastName": "Ai",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Seattle",
+			"number": "5",
+			"repoLocation": "",
+			"repoName": "",
+			"projectName": "",
+			"members": [
+
+				{
+					"firstName": "Sarah",
+					"lastName": "Kane",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Seattle",
+			"number": "6",
+			"repoLocation": "",
+			"repoName": "",
+			"projectName": "",
+			"members": [{
+					"firstName": "Ivy",
+					"lastName": "Patton",
+					"username": ""
+				},
+				{
+					"firstName": "Joe",
+					"lastName": "Ylagen",
+					"username": ""
+				},
+				{
+					"firstName": "Kristen",
+					"lastName": "Sharkey",
+					"username": ""
+				},
+				{
+					"firstName": "Logan",
+					"lastName": "Feiler",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Seattle",
+			"number": "7",
+			"repoLocation": "",
+			"repoName": "",
+			"projectName": "",
+			"members": [{
+					"firstName": "Grace",
+					"lastName": "Hwang",
+					"username": ""
+				},
+				{
+					"firstName": "Keith",
+					"lastName": "Pearson",
+					"username": ""
+				},
+				{
+					"firstName": "Stacie",
+					"lastName": "Mashnitskaya",
+					"username": ""
+				}
+			]
+		},
+		{
+			"location": "Seattle",
+			"number": "8",
+			"repoLocation": "",
+			"repoName": "",
+			"projectName": "",
+			"members": [{
+					"firstName": "Jonathan",
+					"lastName": "Root",
+					"username": ""
+				},
+				{
+					"firstName": "Stephan",
+					"lastName": "Jones",
+					"username": ""
+				},
+				{
+					"firstName": "Wilson",
+					"lastName": "Chan",
+					"username": ""
+				}
+			]
+		}
+	]
 }

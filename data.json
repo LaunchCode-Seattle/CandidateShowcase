@@ -1,11 +1,13 @@
 {
-	"groups": [{
+	"groups": [
+		{
 			"location": "Portland",
 			"number": "1",
 			"repoLocation": "jjames1011",
 			"repoName": "attendenceapp",
 			"projectName": "Attendence App",
-			"members": [{
+			"members": [
+				{
 					"firstName": "Dana",
 					"lastName": "Pryor",
 					"username": "dpryor67"
@@ -33,7 +35,8 @@
 			"repoLocation": "digitaljosh",
 			"repoName": "meal-planner",
 			"projectName": "Meal Planner",
-			"members": [{
+			"members": [
+				{
 					"firstName": "Jason",
 					"lastName": "Jones",
 					"username": "digitaljosh"
@@ -56,7 +59,8 @@
 			"repoLocation": "PushP0P",
 			"repoName": "iEatWhat-Backend",
 			"projectName": "iEatWhat",
-			"members": [{
+			"members": [
+				{
 					"firstName": "Daniel",
 					"lastName": "Hodgson",
 					"username": "PushP0P"
@@ -89,7 +93,8 @@
 			"repoLocation": "devinludwig",
 			"repoName": "five-points",
 			"projectName": "Five Points Web App",
-			"members": [{
+			"members": [
+				{
 					"firstName": "Cody",
 					"lastName": "Long",
 					"username": ""
@@ -112,7 +117,8 @@
 			"repoLocation": "toscanowilliam",
 			"repoName": "Off-Your-Shoulder",
 			"projectName": "Off Your Shoulder",
-			"members": [{
+			"members": [
+				{
 					"firstName": "William",
 					"lastName": "Toscano",
 					"username": "toscanowilliam"
@@ -130,7 +136,8 @@
 			"repoLocation": "juliancello",
 			"repoName": "vehicle-check",
 			"projectName": "Vehicle Check",
-			"members": [{
+			"members": [
+				{
 					"firstName": "Adam",
 					"lastName": "Duhamel",
 					"username": ""
@@ -158,7 +165,8 @@
 			"repoLocation": "EstiShay",
 			"repoName": "podcast-social-network",
 			"projectName": "Podcast Social Network",
-			"members": [{
+			"members": [
+				{
 					"firstName": "Esti",
 					"lastName": "Shay",
 					"username": "EstiShay"
@@ -173,27 +181,28 @@
 		{
 			"location": "Seattle",
 			"number": "1",
-			"repoLocation": "",
-			"repoName": "",
-			"projectName": "",
-			"members": [{
-					"firstName": "Jak Ashuraliev",
-					"lastName": "",
+			"repoLocation": "huiyuandiknow",
+			"repoName": "Home_Data_App",
+			"projectName": "Home Data App",
+			"members": [
+				{
+					"firstName": "Jak",
+					"lastName": "Ashuraliev",
 					"username": ""
 				},
 				{
-					"firstName": "Kristy Stienstra",
-					"lastName": "",
+					"firstName": "Kristy",
+					"lastName": "Stienstra",
 					"username": ""
 				},
 				{
-					"firstName": "Laura Yang",
-					"lastName": "",
-					"username": ""
+					"firstName": "Laura",
+					"lastName": "Yang",
+					"username": "huiyuandiknow"
 				},
 				{
-					"firstName": "Mikhail Gorbunov",
-					"lastName": "",
+					"firstName": "Mikhail",
+					"lastName": "Gorbunov",
 					"username": ""
 				}
 			]
@@ -201,10 +210,11 @@
 		{
 			"location": "Seattle",
 			"number": "2",
-			"repoLocation": "",
-			"repoName": "",
-			"projectName": "",
-			"members": [{
+			"repoLocation": "sarafec",
+			"repoName": "covered",
+			"projectName": "Covered",
+			"members": [
+				{
 					"firstName": "Michael",
 					"lastName": "Park",
 					"username": ""
@@ -217,7 +227,7 @@
 				{
 					"firstName": "Sarah",
 					"lastName": "Fecadu",
-					"username": ""
+					"username": "sarafec"
 				},
 				{
 					"firstName": "Sergey",
@@ -229,13 +239,14 @@
 		{
 			"location": "Seattle",
 			"number": "3",
-			"repoLocation": "",
-			"repoName": "",
-			"projectName": "",
-			"members": [{
+			"repoLocation": "austinlesure",
+			"repoName": "market-meals",
+			"projectName": "MarketMeals",
+			"members": [
+				{
 					"firstName": "Austin",
 					"lastName": "LeSure",
-					"username": ""
+					"username": "austinlesure"
 				},
 				{
 					"firstName": "Lynette",
@@ -262,10 +273,11 @@
 		{
 			"location": "Seattle",
 			"number": "4",
-			"repoLocation": "",
-			"repoName": "",
-			"projectName": "",
-			"members": [{
+			"repoLocation": "Saeyangc",
+			"repoName": "FoodApp",
+			"projectName": "FoodApp",
+			"members": [
+				{
 					"firstName": "Andreaw",
 					"lastName": "Suppini",
 					"username": ""
@@ -284,7 +296,6 @@
 			"repoName": "",
 			"projectName": "",
 			"members": [
-
 				{
 					"firstName": "Sarah",
 					"lastName": "Kane",
@@ -295,10 +306,11 @@
 		{
 			"location": "Seattle",
 			"number": "6",
-			"repoLocation": "",
-			"repoName": "",
-			"projectName": "",
-			"members": [{
+			"repoLocation": "JYlag",
+			"repoName": "spots",
+			"projectName": "Spots",
+			"members": [
+				{
 					"firstName": "Ivy",
 					"lastName": "Patton",
 					"username": ""
@@ -306,7 +318,7 @@
 				{
 					"firstName": "Joe",
 					"lastName": "Ylagen",
-					"username": ""
+					"username": "JYlag"
 				},
 				{
 					"firstName": "Kristen",
@@ -323,33 +335,35 @@
 		{
 			"location": "Seattle",
 			"number": "7",
-			"repoLocation": "",
-			"repoName": "",
-			"projectName": "",
-			"members": [{
+			"repoLocation": "qubitrot",
+			"repoName": "fractastic",
+			"projectName": "fractastic",
+			"members": [
+				{
 					"firstName": "Grace",
 					"lastName": "Hwang",
-					"username": ""
+					"username": "chrinsmas"
 				},
 				{
 					"firstName": "Keith",
 					"lastName": "Pearson",
-					"username": ""
+					"username": "qubitrot"
 				},
 				{
 					"firstName": "Stacie",
 					"lastName": "Mashnitskaya",
-					"username": ""
+					"username": "stacima"
 				}
 			]
 		},
 		{
 			"location": "Seattle",
 			"number": "8",
-			"repoLocation": "",
-			"repoName": "",
-			"projectName": "",
-			"members": [{
+			"repoLocation": "jimtryon",
+			"repoName": "u-grow",
+			"projectName": "U-Grow",
+			"members": [
+				{
 					"firstName": "Jonathan",
 					"lastName": "Root",
 					"username": ""
@@ -362,7 +376,7 @@
 				{
 					"firstName": "Wilson",
 					"lastName": "Chan",
-					"username": ""
+					"username": "wilsonchan789"
 				}
 			]
 		}
